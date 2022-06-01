@@ -2,7 +2,6 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
-import Button from "./components/Button";
 import Button1 from "./components/Button1";
 
 const Home: NextPage = () => {
@@ -25,13 +24,9 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
+            <Button1 />
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
