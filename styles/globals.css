@@ -1,15 +1,14 @@
 html,
 body {
-  margin: 120;
-}
-
-a {
   margin: 0px;
   padding: 0px;
 }
 
-* {
-  box-sizing: border-box;
+p {
+  font-size: 14px;
+}
+
+a {
   margin: 0px;
   padding: 0px;
 }
