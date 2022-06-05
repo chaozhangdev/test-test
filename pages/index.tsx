@@ -8,16 +8,11 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>A-OPP</title>
       </Head>
 
       <main className={styles.main}>
-        <p className={styles.description}>
-          Get started by editing
-          <code className={styles.code}>pages/index.tsx</code>
-          test
-        </p>
-
+        <p>Get started by editing test</p>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
@@ -31,7 +26,7 @@ const Home: NextPage = () => {
           >
             <h2>Examples &rarr;</h2>
             <Button />
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy -- boilerplate example Next.js projects.</p>
           </a>
 
           <a

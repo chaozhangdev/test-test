@@ -1,15 +1,15 @@
 body {
   margin: 0px;
   padding: 0px;
+  background-color: red;
 }
 
 p {
-  margin: 0px;
-  font-size: 12px;
-  padding: 0px;
+  font-size: 14px;
 }
 
 a {
-  margin: 120px;
-  padding: 120px;
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
 }
