@@ -1,15 +1,9 @@
-html,
 body {
   margin: 120;
 }
 
 a {
   margin: 120px;
+  margin: 120px;
   padding: 100px;
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0px;
-  padding: 0px;
 }
