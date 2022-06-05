@@ -1,13 +1,11 @@
 html,
 body {
   margin: 120;
-  font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
-    Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
-  margin: 212px;
-  padding: 222px;
+  margin: 0px;
+  padding: 0px;
 }
 
 * {
