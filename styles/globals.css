@@ -4,10 +4,12 @@ body {
 }
 
 p {
-  font-size: 14px;
+  margin: 0px;
+  font-size: 12px;
+  padding: 0px;
 }
 
 a {
-  margin: 0px;
-  padding: 0px;
+  margin: 120px;
+  padding: 120px;
 }
