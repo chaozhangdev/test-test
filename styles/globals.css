@@ -1,14 +1,17 @@
 html,
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  margin: 120;
+  font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
+    Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
-  color: yellowgreen;
+  margin: 212px;
+  padding: 222px;
 }
 
 * {
   box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
 }
