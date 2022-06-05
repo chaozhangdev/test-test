@@ -1,9 +1,16 @@
 body {
-  margin: 120;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
 }
 
 a {
-  margin: 120px;
-  margin: 120px;
-  padding: 100px;
+  margin: 0px;
+  margin: 10px;
+  padding: 0px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
 }
